@@ -1,1 +1,1 @@
-Hi this is my first project from PC solidity foundryu course
+Hi this is my first project from PC solidity foundry course
